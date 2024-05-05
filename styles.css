@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Federation';
+    src: url('./fonts/Federation.woff2') format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'FederationBold';
+    src: url('./fonts/FederationBold.woff2') format('woff2');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'FederationClassic';
+    src: url('./fonts/FederationClassic.woff2') format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'FederationCrille';
+    src: url('./fonts/FederationCrille.woff2') format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'FederationTNGTitle';
+    src: url('./fonts/FederationTNGTitle.woff2') format('woff2');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Montalban';
+    src: url('./fonts/Montalban.woff2') format('woff2');
+    font-weight: 400;
+}
+
+.f-Federation {
+    font-family: 'Federation';
+}
+
+.f-FederationBold {
+    font-family: 'FederationBold';
+}
+
+.f-FederationClassic {
+    font-family: 'FederationClassic';
+}
+
+.f-FederationCrille {
+    font-family: 'FederationCrille';
+}
+
+.f-FederationTNGTitle {
+    font-family: 'FederationTNGTitle';
+}
+
+.f-Montalban {
+    font-family: 'Montalban';
+}
+
+.t-large {
+    font-size: 2rem;
+}
+
+.mb-lg {
+    margin-bottom: 2rem;
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+p {
+    margin: 1rem
+}
+
